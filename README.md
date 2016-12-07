@@ -1,27 +1,26 @@
-# ember-spin-kit
+# Ember Spin Kit
 
 An Ember.js wrapper for [SpinKit](http://tobiasahlin.com/spinkit)
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-spin-kit`
-* `npm install`
-* `bower install`
+`ember install ember-spin-kit`
 
-## Running
+## Usage
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+`{{spin-kit animation="sk-rotating-plane"}}`
 
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+## Animations (defaults to "sk-rotating-plane")
+Animation name |
+------------ |
+sk-chasing-dots |
+sk-circle |
+sk-cube-grid |
+sk-fading-circle |
+sk-folding-cube |
+sk-rotating-plane |
+sk-wandering-cubes |
+sk-wave |
+sk-spinner |
+sk-spinner-pulse |
+sk-three-bounce |
