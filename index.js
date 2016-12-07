@@ -2,5 +2,10 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-spin-kit'
+  name: 'ember-spin-kit',
+  included: function(app) {
+    this._super.included.apply(this, arguments);
+
+    app.import(app.bowerDirectory + '/SpinKit/css/spinkit.css');
+  }
 };

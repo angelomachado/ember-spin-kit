@@ -1,6 +1,6 @@
 # ember-spin-kit
 
-This README outlines the details of collaborating on this Ember addon.
+An Ember.js wrapper for [SpinKit](http://tobiasahlin.com/spinkit)
 
 ## Installation
 
