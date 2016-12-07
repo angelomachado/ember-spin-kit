@@ -6,6 +6,6 @@ module.exports = {
   included: function(app) {
     this._super.included.apply(this, arguments);
 
-    app.import(app.bowerDirectory + '/SpinKit/css/spinkit.css');
+    app.import(app.bowerDirectory + '/spinkit/css/spinkit.css');
   }
 };

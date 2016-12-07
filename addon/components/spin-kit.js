@@ -18,7 +18,7 @@ export default Component.extend({
     'skCircle:sk-circle',
     'skCubeGrid:sk-cube-grid',
     'skFadingCircle:sk-fading-circle',
-    'skFoldingCube:sk-folding-cube',
+    'skFoldingCube:sk-folding-cube'
   ],
 
   layout,

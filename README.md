@@ -21,6 +21,5 @@ sk-folding-cube |
 sk-rotating-plane |
 sk-wandering-cubes |
 sk-wave |
-sk-spinner |
 sk-spinner-pulse |
 sk-three-bounce |
