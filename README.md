@@ -1,10 +1,10 @@
 # Ember Spin Kit
 
-[![Build Status](https://travis-ci.org//ember-spin-kit.svg)](https://travis-ci.org//ember-spin-kit)
+[![Build Status](https://travis-ci.org/angelomachado/ember-spin-kit.svg)](https://travis-ci.org/angelomachado/ember-spin-kit)
 [![npm version](https://badge.fury.io/js/ember-spin-kit.svg)](http://badge.fury.io/js/ember-spin-kit)
-[![Code Climate](https://codeclimate.com/github//ember-spin-kit/badges/gpa.svg)](https://codeclimate.com/github//ember-spin-kit)
-[![Test Coverage](https://codeclimate.com/github//ember-spin-kit/badges/coverage.svg)](https://codeclimate.com/github//ember-spin-kit/coverage)
-[![Dependency Status](https://david-dm.org//ember-spin-kit.svg)](https://david-dm.org//ember-spin-kit)
+[![Code Climate](https://codeclimate.com/github/angelomachado/ember-spin-kit/badges/gpa.svg)](https://codeclimate.com/github/angelomachado/ember-spin-kit)
+[![Test Coverage](https://codeclimate.com/github/angelomachado/ember-spin-kit/badges/coverage.svg)](https://codeclimate.com/github/angelomachado/ember-spin-kit/coverage)
+[![Dependency Status](https://david-dm.org/angelomachado/ember-spin-kit.svg)](https://david-dm.org/angelomachado/ember-spin-kit)
 
 An Ember.js wrapper for [SpinKit](http://tobiasahlin.com/spinkit)
 
