@@ -14,14 +14,8 @@ An Ember.js wrapper for [SpinKit](http://tobiasahlin.com/spinkit)
 ember install ember-spin-kit
 ```
 
-## Helpful Links
-
-- ### [Live Demo](http://angelomachado.github.io/ember-spin-kit)
-
-- ### [Changelog](CHANGELOG.md)
-
 ## Looking for help?
-If it is a bug [please open an issue on GitHub](http://github.com//ember-spin-kit/issues).
+If it is a bug [please open an issue on GitHub](http://github.com/angelomachado/ember-spin-kit/issues).
 
 ## Usage
 
